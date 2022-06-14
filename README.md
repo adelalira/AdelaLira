@@ -1,8 +1,8 @@
  ## My projects
+ 
+Hello 👋, my name is Adela Lira, junior full stack web application developer. I am a person with great initiative and a big desire to learn as much as possible in the world of development.
 
- Hola 👋, mi nombre es Adela Lira, desarrolladora de aplicaciones web full stack junior. Soy una persona con una gran iniciativa y muchisimas ganas de aprender todo lo posible dentro del mundo de desarrollo.
-    
- ¿Cuales son las diferentes tecnologías que conozco?
+What are the different technologies I know?
 
 * Back end: Java, Spring boot, Hibernate, JSP, python.
 * Front end: HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
