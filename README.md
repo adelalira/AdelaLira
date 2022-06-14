@@ -5,12 +5,12 @@
     
  ¿Cuales son las diferentes tecnologías que conozco?
 
-* Back end:
-* Front end:
-* BBDD: 
+* Back end: Java, Spring boot, Hibernate, JSP, python.
+* Front end: HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
+* BBDD: SQL,MySQL.
 
 
-Proyectos
+Proyectos.
 
 * [Quit it](https://adelalira.github.io/Quitit-frontend/). Technologies: Java, Spring boot, Hibernate, HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
 * [Administración de citas](https://adelalira.github.io/administracionCitasAngular/). Technologies: Java, Spring boot, Hibernate, HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
