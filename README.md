@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <h1>My proyects</h1>
-    <p>Hola, mi nombre es Adela Lira, desarrolladora de aplicaciones web. </p>
-
+ ## Mis Proyectos
+ Hola, mi nombre es Adela Lira, desarrolladora de aplicaciones web.
     
-     <p>¿Cuales son las diferentes tecnologías que conozco?</p>
+ ¿Cuales son las diferentes tecnologías que conozco?
