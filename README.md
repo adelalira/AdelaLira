@@ -7,6 +7,7 @@
 * Back end: Java, Spring boot, Hibernate, JSP, python.
 * Front end: HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
 * BBDD: SQL,MySQL.
+* RPA: Robotics Process Automation
 
 
 Projects.
