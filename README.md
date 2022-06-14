@@ -1,10 +1,13 @@
 ### Hi there 👋
 
  ## Mis Proyectos
- Hola, mi nombre es Adela Lira, desarrolladora de aplicaciones web.
+ Hola, mi nombre es Adela Lira, desarrolladora de aplicaciones web full stack junior. Soy una persona con una gran iniciativa y con muchisimas ganas de aprender todo lo posible dentro del mundo de desarrollo.
     
  ¿Cuales son las diferentes tecnologías que conozco?
 
+* Back end:
+* Front end:
+* BBDD: 
 
 
 Proyectos
