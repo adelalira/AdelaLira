@@ -19,3 +19,11 @@ Here are some ideas to get you started:
  Hola, mi nombre es Adela Lira, desarrolladora de aplicaciones web.
     
  ¿Cuales son las diferentes tecnologías que conozco?
+
+
+
+Proyectos
+
+* [Quit it](https://adelalira.github.io/Quitit-frontend/)
+* [Administración de citas](https://adelalira.github.io/administracionCitasAngular/)
+* [Town of memories](https://adelalira.github.io/TownOfMemories/time.html) 
