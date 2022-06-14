@@ -1,7 +1,6 @@
-### Hi there 👋
+ ## My projects
 
- ## Mis Proyectos
- Hola, mi nombre es Adela Lira, desarrolladora de aplicaciones web full stack junior. Soy una persona con una gran iniciativa y muchisimas ganas de aprender todo lo posible dentro del mundo de desarrollo.
+ Hola 👋, mi nombre es Adela Lira, desarrolladora de aplicaciones web full stack junior. Soy una persona con una gran iniciativa y muchisimas ganas de aprender todo lo posible dentro del mundo de desarrollo.
     
  ¿Cuales son las diferentes tecnologías que conozco?
 
@@ -10,7 +9,7 @@
 * BBDD: SQL,MySQL.
 
 
-Proyectos.
+Projects.
 
 * [Quit it](https://adelalira.github.io/Quitit-frontend/). Technologies: Java, Spring boot, Hibernate, HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
 * [Administración de citas](https://adelalira.github.io/administracionCitasAngular/). Technologies: Java, Spring boot, Hibernate, HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
