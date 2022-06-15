@@ -6,7 +6,7 @@ What are the different technologies I know?
 
 * Back end: Java, Spring boot, Hibernate, JSP, python.
 * Front end: HTML, CSS, Bootstrap, Javascript, Typescript, Angular.
-* BBDD: SQL, MySQL.
+* BBDD: SQL, MySQL, MariaDB, PLSQL.
 * RPA: Robotics Process Automation
 
 
